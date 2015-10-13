@@ -1,3 +1,4 @@
+FROM ubuntu:14.04
 MAINTAINER saberlion <admin@saberlion.info>
 
 ENV DEBIAN_FRONTEND noninteractive
