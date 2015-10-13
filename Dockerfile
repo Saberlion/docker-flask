@@ -1,7 +1,4 @@
-
-FROM ubuntu:14.04
-
-MAINTAINER Phillip Bailey <phillip@bailey.st>
+MAINTAINER saberlion <admin@saberlion.info>
 
 ENV DEBIAN_FRONTEND noninteractive
 
